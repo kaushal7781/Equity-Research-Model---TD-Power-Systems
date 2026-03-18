@@ -43,7 +43,7 @@ A comprehensive initiating coverage report and dynamic valuation model for TD Po
 
 ##   Report Preview
 
-![]((https://github.com/kaushal7781/Equity-Research-Model---TD-Power-Systems/blob/main/TDPS%20Research%20Report%20Social%20Preview.PNG)
+![](https://github.com/kaushal7781/Equity-Research-Model---TD-Power-Systems/blob/main/TDPS%20Research%20Report%20Social%20Preview.PNG)
 
 
 **Disclaimer:** This repository is for educational and portfolio purposes only. It does not constitute formal investment advice.
